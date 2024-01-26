@@ -1,4 +1,13 @@
-# We are group 1F
+# Lin3046_A1_1F
 
-Our group members are Abby, Angel, Edison, Miffy.
+## purpose
 
+This is collection of Whatsapp message from how to comfort people.
+
+## File format
+
+All the files will be stored in plain TXT file
+
+## Group members
+
+Abby, Angel, Edison, Miffy
