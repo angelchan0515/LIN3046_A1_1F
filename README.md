@@ -10,4 +10,7 @@ All the files will be stored in plain TXT file
 
 ## Group members
 
-Abby, Angel, Edison, Miffy
+Abby (11381356)
+Angel (11485619)
+Edison (11517101)
+Miffy (11485683）
