@@ -12,7 +12,7 @@ This is collection of messages from how to comfort people.This article aims to e
 
 All the files will be stored in plain TXT file
 
-## Language Date
+## Language Data
 
 ## Communication 
 
