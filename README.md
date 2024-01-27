@@ -9,6 +9,8 @@ This is collection of messages from how to comfort people.This article aims to e
 By analyzing both books and social media, this article demonstrates their effectiveness in providing comfort and solace, contributing to emotional well-being and a sense of belonging.
 
 ## Metadata list
+comfort skill: text6
+an incorrect example:
 
 ## File Organisation 
 
