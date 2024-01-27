@@ -6,6 +6,8 @@ This is collection of messages from how to comfort people.This article aims to e
 
 ## Scope
 
+By analyzing both books and social media, this article demonstrates their effectiveness in providing comfort and solace, contributing to emotional well-being and a sense of belonging.
+
 ## Metadata list
 
 ## File Organisation 
@@ -13,6 +15,8 @@ This is collection of messages from how to comfort people.This article aims to e
 All the files will be stored in plain TXT file
 
 ## Language Data
+
+written text:from different sources, such as books, articles, websites, social media
 
 ## Communication 
 
@@ -31,4 +35,14 @@ Miffy (11485683）
 
 ## Clear division of labour
 
+Abby:
+Angel:
+Edison:
+Miffy:
+
 ## Contribution from all team member
+
+Abby:
+Angel:
+Edison:
+Miffy:
