@@ -17,7 +17,7 @@ By analyzing both books and social media, this article demonstrates their effect
 
 ## Metadata list
 
-1. comfort skill: text1,text4,text5,text6,text9,text10,text11,text12,text13,text20
+1. comfort skill: text1,text4,text5,text6,text9,text10,text11,text12,text13,text.19,text20
 2. an incorrect example: text.15, text.16, text17
 3. real message: text8, text18
 4. story of comfort: text7
