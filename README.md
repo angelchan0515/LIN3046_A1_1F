@@ -1,4 +1,4 @@
-# Lin3046_A1_1F
+# LIN3046_A1_1F
 
 ## purpose
 
