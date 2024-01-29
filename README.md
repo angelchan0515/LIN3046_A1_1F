@@ -1,13 +1,13 @@
 # LIN3046_A1_1F
 
-## group members
+## Group members
 1. Abby (11381356)
 2. Angel (11495619)
 3. Edison (11517101)
 4. Miffy (11485683)
 
 
-## purpose
+## Purpose
 
 People are facing different kinds of stress and things which make people feel bad. Therefore, our group decided to work on how can we comfort our friends in text message. For this reason, this is a collection of messages on how to comfort people. This article aims to explore the ways in which books and social media can be utilized to provide comfort and solace to individuals. It discusses the therapeutic benefits of reading books, emphasizing how they offer an escape, emotional connection, and a source of inspiration. Additionally, the article explores the role of social media platforms in fostering a sense of community and support through sharing personal stories, providing virtual empathy, and facilitating connections with like-minded individuals.
 
@@ -26,11 +26,11 @@ By analyzing both books and social media, this article demonstrates their effect
 
 ## File Organisation 
 
-All the files will be stored in plain TXT file
+All the files will be stored in plain TXT file.
 
 ## Language Data
 
-written text:from different sources, such as books, articles, websites, social media and daily life like conversation between friend.
+written text:from different sources, such as books, articles, websites, social media and daily life like conversation between peers.
 
 ## Teamwork
-To save time, each of us find 5 sources which related to the topic.We will put the files devide into different categories. 
+To save time, each of us find 5 sources which related to the topic.We will divide the files into different categories and it have shown above.
