@@ -2,7 +2,7 @@
 
 ## purpose
 
-This is collection of messages on how to comfort people.This article aims to explore the ways in which books and social media can be utilized to provide comfort and solace to individuals. It discusses the therapeutic benefits of reading books, emphasizing how they offer an escape, emotional connection, and a source of inspiration. Additionally, the article explores the role of social media platforms in fostering a sense of community and support through sharing personal stories, providing virtual empathy, and facilitating connections with like-minded individuals.
+People are facing different kinds of stress and things which make people feel bad. Therefore, our group decided to work on how can we comfort our friends in text message. Therefore, this is collection of messages on how to comfort people.This article aims to explore the ways in which books and social media can be utilized to provide comfort and solace to individuals. It discusses the therapeutic benefits of reading books, emphasizing how they offer an escape, emotional connection, and a source of inspiration. Additionally, the article explores the role of social media platforms in fostering a sense of community and support through sharing personal stories, providing virtual empathy, and facilitating connections with like-minded individuals.
 
 ## Scope
 
@@ -10,7 +10,7 @@ By analyzing both books and social media, this article demonstrates their effect
 
 ## Metadata list
 comfort skill: text1,text4,text5,text6,text9,text10,text11,text12,text13,text17,text20
-an incorrect example:
+an incorrect example: text.15
 real message: text8, text18
 story of comfort: text7
 Quote to comfort: text2,text3
