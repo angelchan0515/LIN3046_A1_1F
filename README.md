@@ -1,7 +1,12 @@
 # LIN3046_A1_1F
 
 ## group members
-Abby(11381356),Angel(11495619),Edison(),Miffy(11485683)
+'''
+1. Abby(11381356)
+2. Angel(11495619)
+3. Edison(11517101)
+4. Miffy(11485683)
+''' 
 
 ## purpose
 
@@ -12,11 +17,13 @@ People are facing different kinds of stress and things which make people feel ba
 By analyzing both books and social media, this article demonstrates their effectiveness in providing comfort and solace, contributing to emotional well-being and a sense of belonging.
 
 ## Metadata list
-comfort skill: text1,text4,text5,text6,text9,text10,text11,text12,text13,text17,text20
-an incorrect example: text.15
-real message: text8, text18
-story of comfort: text7
-Quote to comfort: text2,text3
+'''
+1. comfort skill: text1,text4,text5,text6,text9,text10,text11,text12,text13,text17,text20
+2. an incorrect example: text.15
+3. real message: text8, text18
+4. story of comfort: text7
+5. Quote to comfort: text2,text3
+'''
 
 ## File Organisation 
 
