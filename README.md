@@ -1,7 +1,6 @@
 # LIN3046_A1_1F
 
 ## group members
-'''
 1. Abby(11381356)
 2. Angel(11495619)
 3. Edison(11517101)
