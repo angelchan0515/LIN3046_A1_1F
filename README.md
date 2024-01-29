@@ -20,7 +20,7 @@ All the files will be stored in plain TXT file
 
 ## Language Data
 
-written text:from different sources, such as books, articles, websites, social media
+written text:from different sources, such as books, articles, websites, social media and daily life like conversation between friend.
 
 ## Communication 
 
@@ -29,6 +29,7 @@ written text:from different sources, such as books, articles, websites, social m
 ## Layout 
 
 ## Teamwork
+To save time, each of us find 5 sources which related to the topic.We will put the files devide into different categories. 
 
 ## Group members
 
