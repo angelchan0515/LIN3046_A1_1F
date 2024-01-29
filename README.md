@@ -1,5 +1,8 @@
 # LIN3046_A1_1F
 
+## group members
+Abby(11381356),Angel(11495619),Edison(),Miffy(11485683)
+
 ## purpose
 
 People are facing different kinds of stress and things which make people feel bad. Therefore, our group decided to work on how can we comfort our friends in text message. Therefore, this is collection of messages on how to comfort people.This article aims to explore the ways in which books and social media can be utilized to provide comfort and solace to individuals. It discusses the therapeutic benefits of reading books, emphasizing how they offer an escape, emotional connection, and a source of inspiration. Additionally, the article explores the role of social media platforms in fostering a sense of community and support through sharing personal stories, providing virtual empathy, and facilitating connections with like-minded individuals.
