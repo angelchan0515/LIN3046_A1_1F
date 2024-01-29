@@ -23,7 +23,5 @@ All the files will be stored in plain TXT file
 
 written text:from different sources, such as books, articles, websites, social media and daily life like conversation between friend.
 
-## Layout 
-
 ## Teamwork
 To save time, each of us find 5 sources which related to the topic.We will put the files devide into different categories. 
